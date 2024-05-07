@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1268" alt="YoutubeClone1" src="https://github.com/yunusemrehardal/youtube-clone/assets/72738110/f42d1c79-ef75-4e18-8a6a-a678c58dc147">
+
+<img width="1237" alt="YoutubeClone2" src="https://github.com/yunusemrehardal/youtube-clone/assets/72738110/8189d50f-3618-483d-9747-ab4f26d75a02">
+
 ## Available Scripts
 
 In the project directory, you can run:
